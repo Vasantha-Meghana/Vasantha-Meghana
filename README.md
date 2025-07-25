@@ -16,8 +16,8 @@ A passionate and curious learner diving into the world of tech, one project at a
 
 ## I Code With
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -29,9 +29,9 @@ A passionate and curious learner diving into the world of tech, one project at a
 
 ## 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasantha-meghana-kotu-82b249291/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vasantha_Meghana/)  
-📩 Gmail: vasanthameghanakotu@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasantha-meghana-kotu-82b249291/)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Vasantha_Meghana/)   
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasanthameghanakotu@gmail.com)
 
 ---
 
@@ -40,20 +40,6 @@ A passionate and curious learner diving into the world of tech, one project at a
 ![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasantha-Meghana&show_icons=true&theme=tokyonight&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasantha-Meghana&layout=compact&theme=tokyonight)
-
----
-
-## 📌 Pinned Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasantha-Meghana&repo=travel-bucket&theme=tokyonight)](https://github.com/Vasantha-Meghana/travel-bucket)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vasantha-Meghana&repo=diabetes-prediction&theme=tokyonight)](https://github.com/Vasantha-Meghana/diabetes-prediction)
-
----
-
-## ⏳ Recent GitHub Activity
-
-![Meghana's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vasantha-Meghana&theme=react-dark)
 
 ---
 
