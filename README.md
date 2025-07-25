@@ -45,11 +45,6 @@ A passionate and curious learner diving into the world of tech, one project at a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasantha-Meghana&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vasantha-Meghana&theme=react-dark&hide_border=true" width="98%"/>
-</div>
 
 
 
