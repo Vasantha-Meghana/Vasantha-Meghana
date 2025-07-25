@@ -7,9 +7,9 @@ A passionate and curious learner diving into the world of tech, one project at a
 ## About Me
 
 - B.Tech CSE (Data Science) student at RVR & JC College of Engineering (2022–2026)
--  I’m passionate about solving real-world problems using code and building scalable tech solutions
--   Strong foundation in Data Structures, Algorithms, DBMS, and Full-Stack Development
--    Actively solving 450+ problems on LeetCode & contributing to personal open-source projects  
+- I’m passionate about solving real-world problems using code and building scalable tech solutions
+- Strong foundation in Data Structures, Algorithms, DBMS, and Full-Stack Development
+- Actively solving 450+ problems on LeetCode & contributing to personal open-source projects  
 
 
 ## I Code With
@@ -17,7 +17,6 @@ A passionate and curious learner diving into the world of tech, one project at a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -39,11 +38,19 @@ A passionate and curious learner diving into the world of tech, one project at a
 </p>
 
 
-## GitHub Stats
+## GitHub Stats & Activity
 
-![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasantha-Meghana&show_icons=true&theme=tokyonight&hide_title=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasantha-Meghana&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasantha-Meghana&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasantha-Meghana&layout=compact&theme=tokyonight)
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vasantha-Meghana&theme=react-dark&hide_border=true" width="98%"/>
+</div>
+
 
 
 
