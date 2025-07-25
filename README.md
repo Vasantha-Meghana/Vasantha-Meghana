@@ -24,14 +24,22 @@ A passionate and curious learner diving into the world of tech, one project at a
 </p>
 
 
-## 🌐 Let’s Connect
+## Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasantha-meghana-kotu-82b249291/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Vasantha_Meghana/)   
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasanthameghanakotu@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/vasantha-meghana-kotu-82b249291/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/Vasantha_Meghana/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="mailto:vasanthameghanakotu@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasantha-Meghana&show_icons=true&theme=tokyonight&hide_title=true)
 
