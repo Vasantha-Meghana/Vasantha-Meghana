@@ -3,16 +3,14 @@
 I'm Vasantha Meghana!  
 A passionate and curious learner diving into the world of tech, one project at a time 🌍✨
 
----
 
 ## About Me
 
-- CSE (Data Science) Student at RVR & JC College of Engineering  
-- Exploring: Data Science, Full-Stack Development & Machine Learning  
-- Tech Stack:  Java | Python | JavaScript | React | MySQL 
-- I love solving real-world problems and sharing knowledge through code and collaboration!
+- B.Tech CSE (Data Science) student at RVR & JC College of Engineering (2022–2026)
+-  I’m passionate about solving real-world problems using code and building scalable tech solutions
+-   Strong foundation in Data Structures, Algorithms, DBMS, and Full-Stack Development
+-    Actively solving 450+ problems on LeetCode & contributing to personal open-source projects  
 
----
 
 ## I Code With
 <p align="left">
@@ -25,7 +23,6 @@ A passionate and curious learner diving into the world of tech, one project at a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </p>
 
----
 
 ## 🌐 Let’s Connect
 
@@ -33,7 +30,6 @@ A passionate and curious learner diving into the world of tech, one project at a
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Vasantha_Meghana/)   
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vasanthameghanakotu@gmail.com)
 
----
 
 ## 📊 GitHub Stats
 
@@ -41,7 +37,6 @@ A passionate and curious learner diving into the world of tech, one project at a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasantha-Meghana&layout=compact&theme=tokyonight)
 
----
 
 
 <!--
