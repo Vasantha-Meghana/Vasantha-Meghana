@@ -9,7 +9,7 @@ A passionate and curious learner diving into the world of tech, one project at a
 - B.Tech CSE (Data Science) student at RVR & JC College of Engineering (2022–2026)
 - I’m passionate about solving real-world problems using code and building scalable tech solutions
 - Strong foundation in Data Structures, Algorithms, DBMS, and Full-Stack Development
-- Actively solving 450+ problems on LeetCode & contributing to personal open-source projects  
+- Actively solving 600+ problems on LeetCode & contributing to personal open-source projects  
 
 
 ## I Code With
