@@ -38,13 +38,6 @@ A passionate and curious learner diving into the world of tech, one project at a
 </p>
 
 
-## GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasantha-Meghana&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasantha-Meghana&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
 
 
 
